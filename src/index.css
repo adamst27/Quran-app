@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Cairo", sans-serif;
+}
+@layer components {
+  nav ul li a {
+    @apply hover:text-brilliant transition duration-300;
+  }
+}

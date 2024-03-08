@@ -1,0 +1,803 @@
+{
+  "id": 1,
+  "quranaudio": [
+    {
+      "name": "Al-Fatihah (The Opener)",
+      "Ayah": "7",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 1,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/001.mp3"
+    },
+    {
+      "name": "Al-Baqarah (The Cow)",
+      "Ayah": "286",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 2,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/002.mp3"
+    },
+    {
+      "name": "Ali 'Imran (Family of Imran)",
+      "Ayah": "200",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 3,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/003.mp3"
+    },
+    {
+      "name": "An-Nisa (The Women)",
+      "Ayah": "176",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 4,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/004.mp4"
+    },
+    {
+      "name": "Al-Ma'idah (The Table Spread)",
+      "Ayah": "120",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 5,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/005.mp3"
+    },
+    {
+      "name": "Al-An'am (The Cattle)",
+      "Ayah": "166",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 6,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/006.mp3"
+    },
+    {
+      "name": "Al-A'raf (The Heights)",
+      "Ayah": "206",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 7,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/007.mp3"
+    },
+    {
+      "name": "Al-Anfal (The Spoils of War)",
+      "Ayah": "75",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 8,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/008.mp3"
+    },
+    {
+      "name": "At-Tawbah (The Repentance)",
+      "Ayah": "128",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 9,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/009.mp3"
+    },
+    {
+      "name": "Yunus (Jonah)",
+      "Ayah": "109",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 10,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3"
+    },
+    {
+      "name": "Hud (Hud)",
+      "Ayah": "123",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 11,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/011.mp3"
+    },
+    {
+      "name": "Yusuf (Joseph)",
+      "Ayah": "111",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 12,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/012.mp3"
+    },
+    {
+      "name": "Ar-Ra'd (The Thunder)",
+      "Ayah": "43",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 13,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/013.mp3"
+    },
+    {
+      "name": "Ibrahim (Abrahim)",
+      "Ayah": "52",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 14,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/014.mp3"
+    },
+    {
+      "name": "Al-Hijr (The Rocky Tract)",
+      "Ayah": "99",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 15,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/015.mp3"
+    },
+    {
+      "name": "An-Nahl (The Bee)",
+      "Ayah": "128",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 16,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/016.mp3"
+    },
+    {
+      "name": "Al-Isra (The Night Journey)",
+      "Ayah": "111",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 17,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/017.mp3"
+    },
+    {
+      "name": "Al-Kahf (The Cave)",
+      "Ayah": "110",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 18,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/018.mp3"
+    },
+    {
+      "name": "Maryam (Mary)",
+      "Ayah": "98",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 19,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/019.mp3"
+    },
+    {
+      "name": "Taha (Ta-Ha)",
+      "Ayah": "135",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 20,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/020.mp3"
+    },
+    {
+      "name": "Al-Anbya (The Prophets)",
+      "Ayah": "112",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 21,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/021.mp3"
+    },
+    {
+      "name": "Al-Haj (The Pilgrimage)",
+      "Ayah": "78",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 22,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/022.mp3"
+    },
+    {
+      "name": "Al-Mu'minun (The Believers)",
+      "Ayah": "118",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 23,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/023.mp3"
+    },
+    {
+      "name": "An-Nur (The Light)",
+      "Ayah": "64",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 24,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/024.mp3"
+    },
+    {
+      "name": "Al-Furqan (The Criterian)",
+      "Ayah": "77",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 25,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/025.mp3"
+    },
+    {
+      "name": "Ash-Shu'ara (The Poets)",
+      "Ayah": "227",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 26,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/026.mp3"
+    },
+    {
+      "name": "An-Naml (The Ant)",
+      "Ayah": "93",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 27,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/027.mp3"
+    },
+    {
+      "name": "Al-Qasas (The Stories)",
+      "Ayah": "88",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 28,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/028.mp3"
+    },
+    {
+      "name": "Al-'Ankabut (The Spider)",
+      "Ayah": "69",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 29,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/029.mp3"
+    },
+    {
+      "name": "Ar-Rum (The Romans)",
+      "Ayah": "60",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 30,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/030.mp3"
+    },
+    {
+      "name": "Luqman (Luqman)",
+      "Ayah": "34",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 31,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/031.mp3"
+    },
+    {
+      "name": "As-Sajdah (The Prostration)",
+      "Ayah": "30",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 32,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/032.mp3"
+    },
+    {
+      "name": "Al-Ahzab (The Combined Forces)",
+      "Ayah": "73",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 33,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/033.mp3"
+    },
+    {
+      "name": "Saba (Sheba)",
+      "Ayah": "54",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 34,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/034.mp3"
+    },
+    {
+      "name": "Fatir (Originator)",
+      "Ayah": "45",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 35,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/035.mp3"
+    },
+    {
+      "name": "Ya-Sin (Ya Sin)",
+      "Ayah": "83",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 36,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/036.mp3"
+    },
+    {
+      "name": "As-Saffat (Those who set the Ranks)",
+      "Ayah": "182",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 37,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/037.mp3"
+    },
+    {
+      "name": "Sad (The Letter 'Saad')",
+      "Ayah": "88",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 38,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/038.mp3"
+    },
+    {
+      "name": "Az-Zumar (The Troops)",
+      "Ayah": "75",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 39,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/039.mp3"
+    },
+    {
+      "name": "Ghafir (The Forgiver)",
+      "Ayah": "85",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 40,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/040.mp3"
+    },
+    {
+      "name": "Fussilat (Explained in Detail)",
+      "Ayah": "54",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 41,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/041.mp3"
+    },
+    {
+      "name": "Ash-Shuraa (The Consultation)",
+      "Ayah": "53",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 42,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/042.mp3"
+    },
+    {
+      "name": "Az-Zukhruf (The Ornaments of Gold)",
+      "Ayah": "89",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 43,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/043.mp3"
+    },
+    {
+      "name": "Ad-Dukhan (The Smoke)",
+      "Ayah": "59",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 44,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/044.mp3"
+    },
+    {
+      "name": "Al-Jathiyah (The Crouching)",
+      "Ayah": "37",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 45,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/045.mp3"
+    },
+    {
+      "name": "Al-Ahqaf (The Wind-Curved Sandhills)",
+      "Ayah": "35",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 46,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/046.mp3"
+    },
+    {
+      "name": "Muhammad (Muhammad)",
+      "Ayah": "38",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 47,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/047.mp3"
+    },
+    {
+      "name": "Al-Fath (The Victory)",
+      "Ayah": "29",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 48,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/048.mp3"
+    },
+    {
+      "name": "Al-Hujurat (The Rooms)",
+      "Ayah": "18",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 49,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/049.mp3"
+    },
+    {
+      "name": "Qaf (The Letter 'Qaf')",
+      "Ayah": "45",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 50,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/050.mp3"
+    },
+    {
+      "name": "Adh-Dhariyat (The Winnowing Winds)",
+      "Ayah": "60",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 51,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/051.mp3"
+    },
+    {
+      "name": "At-Tur (The Mount)",
+      "Ayah": "49",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 52,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/052.mp3"
+    },
+    {
+      "name": "An-Najm (The Star)",
+      "Ayah": "62",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 53,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/053.mp3"
+    },
+    {
+      "name": "Al-Qamar (The Moon)",
+      "Ayah": "55",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 54,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/054.mp3"
+    },
+    {
+      "name": "Ar-Rahman (The Beneficent)",
+      "Ayah": "78",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 55,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/055.mp3"
+    },
+    {
+      "name": "Al-Waqi'ah (The Inevitable)",
+      "Ayah": "96",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 56,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/056.mp3"
+    },
+    {
+      "name": "Al-Hadid (The Iron)",
+      "Ayah": "29",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 57,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/057.mp3"
+    },
+    {
+      "name": "Al-Mujadila (The Pleading Woman)",
+      "Ayah": "22",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 58,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/058.mp3"
+    },
+    {
+      "name": "Al-Hashr (The Exile)",
+      "Ayah": "24",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 59,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/059.mp3"
+    },
+    {
+      "name": "Al-Mumtahanah (She that is to be examined)",
+      "Ayah": "13",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 60,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/060.mp3"
+    },
+    {
+      "name": "As-Saf (The Ranks)",
+      "Ayah": "14",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 61,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/061.mp3"
+    },
+    {
+      "name": "Al-Jumu'ah (The Congregation, Friday)",
+      "Ayah": "11",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 62,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/062.mp3"
+    },
+    {
+      "name": "Al-Munafiqun (The Hypocrites)",
+      "Ayah": "11",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 63,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/063.mp3"
+    },
+    {
+      "name": "At-Taghabun (The Mutual Disillusion)",
+      "Ayah": "18",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 64,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/064.mp3"
+    },
+    {
+      "name": "At-Talaq (The Divorce)",
+      "Ayah": "12",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 65,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/065.mp3"
+    },
+    {
+      "name": "At-Tahrim (The Prohibtiion)",
+      "Ayah": "12",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 66,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/066.mp3"
+    },
+    {
+      "name": "Al-Mulk (The Sovereignty)",
+      "Ayah": "30",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 67,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/067.mp3"
+    },
+    {
+      "name": "Al-Qalam (The Pen)",
+      "Ayah": "52",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 68,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/068.mp3"
+    },
+    {
+      "name": "Al-Haqqah (The Reality)",
+      "Ayah": "52",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 69,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/069.mp3"
+    },
+    {
+      "name": "Al-Ma'arij (The Ascending Stairways)",
+      "Ayah": "44",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 70,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/070.mp3"
+    },
+    {
+      "name": "Nuh (Noah)",
+      "Ayah": "28",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 71,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/071.mp3"
+    },
+    {
+      "name": "Al-Jinn (The Jinn)",
+      "Ayah": "28",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 72,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/072.mp3"
+    },
+    {
+      "name": "Al-Muzzammil (The Enshrouded One)",
+      "Ayah": "20",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 73,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/073.mp3"
+    },
+    {
+      "name": "Al-Muddaththir (The Cloaked One)",
+      "Ayah": "56",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 74,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/074.mp3"
+    },
+    {
+      "name": "Al-Qiyamah (The Resurrection)",
+      "Ayah": "40",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 75,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/075.mp3"
+    },
+    {
+      "name": "Al-Insan (The Man)",
+      "Ayah": "31",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 76,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/076.mp3"
+    },
+    {
+      "name": "Al-Mursalat (The Emissaries)",
+      "Ayah": "50",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 77,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/077.mp3"
+    },
+    {
+      "name": "An-Naba (The Tidings)",
+      "Ayah": "40",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 78,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/078.mp3"
+    },
+    {
+      "name": "An-Nazi'at (Those who drag forth)",
+      "Ayah": "46",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 79,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/079.mp3"
+    },
+    {
+      "name": "Abasa (He Frowned)",
+      "Ayah": "42",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 80,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/080.mp3"
+    },
+    {
+      "name": "At-Takwir (The Overthrowing)",
+      "Ayah": "29",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 81,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/081.mp3"
+    },
+    {
+      "name": "Al-Infitar (The Cleaving)",
+      "Ayah": "19",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 82,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/082.mp3"
+    },
+    {
+      "name": "Al-Mutaffifin (The Defrauding)",
+      "Ayah": "36",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 83,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/083.mp3"
+    },
+    {
+      "name": "Al-Inshiqaq (The Sundering)",
+      "Ayah": "25",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 84,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/084.mp3"
+    },
+    {
+      "name": "Al-Buruj (The Mansions of the Stars)",
+      "Ayah": "22",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 85,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/085.mp3"
+    },
+    {
+      "name": "At-Tariq (The Nightcommer)",
+      "Ayah": "17",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 86,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/086.mp3"
+    },
+    {
+      "name": "Al-A'la (The Most High)",
+      "Ayah": "19",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 87,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/087.mp3"
+    },
+    {
+      "name": "Al-Ghashiyah (The Overwhelming)",
+      "Ayah": 26,
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 88,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/088.mp3"
+    },
+    {
+      "name": "Al-Fajr (The Dawn)",
+      "Ayah": "120",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 30,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/089.mp3"
+    },
+    {
+      "name": "Al-Balad (The City)",
+      "Ayah": "20",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 90,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/090.mp3"
+    },
+    {
+      "name": "Ash-Shams (The Sun)",
+      "Ayah": "15",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 91,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/091.mp3"
+    },
+    {
+      "name": "Al-Layl (The Night)",
+      "Ayah": "21",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 92,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/092.mp3"
+    },
+    {
+      "name": "Ad-Duhaa (The Morning Hours)",
+      "Ayah": "11",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 93,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/093.mp3"
+    },
+    {
+      "name": "Ash-Sharh (The Relief)",
+      "Ayah": "8",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 94,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/094.mp3"
+    },
+    {
+      "name": "At-Tin (The Fig)",
+      "Ayah": "8",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 95,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/095.mp3"
+    },
+    {
+      "name": "Al-'Alaq (The Clot)",
+      "Ayah": "19",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 96,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/096.mp3"
+    },
+    {
+      "name": "Al-Qadr (The Power)",
+      "Ayah": "5",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 97,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/097.mp3"
+    },
+    {
+      "name": "Al-Bayyinah (The Clear Proof)",
+      "Ayah": "8",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 98,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/098.mp3"
+    },
+    {
+      "name": "Az-Zalzalah (The Earthquake)",
+      "Ayah": "8",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 99,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/099.mp3"
+    },
+    {
+      "name": "Al-'Adiyat (The Courser)",
+      "Ayah": "11",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 100,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/100.mp3"
+    },
+    {
+      "name": "Al-Qari'ah (The Calamity)",
+      "Ayah": "11",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 101,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/101.mp3"
+    },
+    {
+      "name": "At-Takathur (The Rivalry in world increase)",
+      "Ayah": "8",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 102,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/102.mp3"
+    },
+    {
+      "name": "Al-'Asr (The Declining Day)",
+      "Ayah": "3",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 103,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/103.mp3"
+    },
+    {
+      "name": "Al-Humazah (The Traducer)",
+      "Ayah": "9",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 104,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/104.mp3"
+    },
+    {
+      "name": "Al-Fil (The Elephant)",
+      "Ayah": "5",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 105,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/105.mp3"
+    },
+    {
+      "name": "Quraysh (Quraysh)",
+      "Ayah": "4",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 106,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/106.mp3"
+    },
+    {
+      "name": "Al-Ma'un (The Small Kindesses)",
+      "Ayah": "7",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 107,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/107.mp3"
+    },
+    {
+      "name": "Al-Kawthar (The Abundance)",
+      "Ayah": "3",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 108,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/108.mp3"
+    },
+    {
+      "name": "Al-Kafirun (The Disbelievers)",
+      "Ayah": "6",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 109,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/109.mp3"
+    },
+    {
+      "name": "An-Nasr (The Divine Support)",
+      "Ayah": "3",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 110,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/110.mp3"
+    },
+    {
+      "name": "Al-Masad (The Palm Fiber)",
+      "Ayah": "5",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 111,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/111.mp3"
+    },
+    {
+      "name": "Al-Ikhlas (The Sincerity)",
+      "Ayah": "4",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 112,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/112.mp3"
+    },
+    {
+      "name": "Al-Falaq (The Daybreak)",
+      "Ayah": "5",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 113,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/113.mp3"
+    },
+    {
+      "name": "An-Nas (The Mankind)",
+      "Ayah": "6",
+      "Recital": "Abdur-Rahman as-Sudais",
+      "surah": 114,
+      "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/114.mp3"
+    }
+  ]
+}
